@@ -1,2 +1,2 @@
 i added this line in the update
-it's cloudy outside today
+it's sunny outside today
